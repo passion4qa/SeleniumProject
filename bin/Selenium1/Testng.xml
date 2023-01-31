@@ -1,0 +1,12 @@
+<suite name="TestNg Roicians">
+	<test name=" Regression" allow-return-values="true"> // regression is the name of the type of testing example
+<classes>
+<class name="Selenium1.Testnew"/> // seleniunm 1 is yr package name test1 is yr testcase number
+</classes>
+   </test>
+	<test name="Smoke" allows-return-values="true">
+	<classes>
+	<class name="Selenium1.TestSelenium"/>
+		</classes>
+	</test>
+</suite>

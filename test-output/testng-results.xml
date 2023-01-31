@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNg Roicians" duration-ms="6200" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T14:00:01 EST">
+    <groups>
+      <group name="title">
+        <method signature="TestSelenium.gettitle()[pri:1, instance:Selenium1.TestSelenium@5fdba6f9]" name="gettitle" class="Selenium1.TestSelenium"/>
+      </group> <!-- title -->
+      <group name="verification">
+        <method signature="TestSelenium.display()[pri:2, instance:Selenium1.TestSelenium@5fdba6f9]" name="display" class="Selenium1.TestSelenium"/>
+      </group> <!-- verification -->
+    </groups>
+    <test name=" Regression" duration-ms="78" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+      <class name="Selenium1.Testnew">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="beforetest" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="beforeclass" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="Writetestcases()[pri:1, instance:Selenium1.Testnew@12c8a2c0]" name="Writetestcases" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Writetestcases -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="aftermethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="Aftermethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="Aftermethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="Aftermethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="Aftermethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="aftermethod" is-config="true" duration-ms="16" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="Defect()[pri:3, instance:Selenium1.Testnew@12c8a2c0]" name="Defect" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Defect -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="beforemethod" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="Executetestcase()[pri:2, instance:Selenium1.Testnew@12c8a2c0]" name="Executetestcase" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Executetestcase -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="aftertest" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="afterclass" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Selenium1.Testnew -->
+    </test> <!--  Regression -->
+    <test name="Smoke" duration-ms="6075" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T14:00:01 EST">
+      <class name="Selenium1.TestSelenium">
+        <test-method status="PASS" signature="driversetup()[pri:0, instance:Selenium1.TestSelenium@5fdba6f9]" name="driversetup" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method status="PASS" signature="before()[pri:0, instance:Selenium1.TestSelenium@5fdba6f9]" name="before" is-config="true" duration-ms="3658" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="gettitle()[pri:1, instance:Selenium1.TestSelenium@5fdba6f9]" name="gettitle" duration-ms="15" started-at="2022-12-19T13:59:58 EST" finished-at="2022-12-19T13:59:58 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettitle -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Selenium1.TestSelenium@5fdba6f9]" name="aftermethod" is-config="true" duration-ms="158" started-at="2022-12-19T13:59:58 EST" finished-at="2022-12-19T13:59:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="before()[pri:0, instance:Selenium1.TestSelenium@5fdba6f9]" name="before" is-config="true" duration-ms="2029" started-at="2022-12-19T13:59:59 EST" finished-at="2022-12-19T14:00:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="display()[pri:2, instance:Selenium1.TestSelenium@5fdba6f9]" name="display" duration-ms="60" started-at="2022-12-19T14:00:01 EST" depends-on-methods="Selenium1.TestSelenium.gettitle" finished-at="2022-12-19T14:00:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:Selenium1.TestSelenium@5fdba6f9]" name="aftermethod" is-config="true" duration-ms="138" started-at="2022-12-19T14:00:01 EST" finished-at="2022-12-19T14:00:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- Selenium1.TestSelenium -->
+      <class name="Selenium1.Testnew">
+        <test-method status="PASS" signature="beforesuit()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="beforesuit" is-config="true" duration-ms="0" started-at="2022-12-19T13:59:55 EST" finished-at="2022-12-19T13:59:55 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:Selenium1.Testnew@12c8a2c0]" name="aftersuite" is-config="true" duration-ms="0" started-at="2022-12-19T14:00:01 EST" finished-at="2022-12-19T14:00:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- Selenium1.Testnew -->
+    </test> <!-- Smoke -->
+  </suite> <!-- TestNg Roicians -->
+</testng-results>
